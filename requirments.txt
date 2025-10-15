@@ -1,0 +1,10 @@
+langchain-community>=0.1.2
+langchain-huggingface>=0.0.9
+huggingface-hub>=0.23.0
+sentence-transformers>=2.7.0
+faiss-cpu>=1.8.0
+pytesseract
+pillow
+pymupdf
+python-dotenv
+streamlit
